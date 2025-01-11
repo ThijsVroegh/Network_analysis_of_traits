@@ -1,5 +1,5 @@
-# Network_analysis_of_traits
-Here, I analyse the human trait of becoming absorbed in relation to several other traits. Complementary to factor analysis, which is the most commonly applied method used to explain the interrelationships between multiple traits, here network analysis is used to provide alternative, additional insights into the function and meaning of absorption amidst other traits. The findings contribute to the debate whether or not traits are best understood in terms of underlying latent variables or perhaps in terms of a network.
+# Network analysis of traits
+Here, I analyse the human trait of becoming absorbed in relation to several other traits. Complementary to factor analysis, which is the most commonly applied method used to explain the interrelationships between multiple traits, network analysis is used to provide alternative, additional insights into the function and meaning of absorption amidst other traits. The findings contribute to the debate whether or not traits are best understood in terms of underlying latent variables or perhaps in terms of a network.
 
 # Background
 Absorption describes the susceptibility to enter psychological states that restructure or alter our everyday experience. These more or less transient states may have a dissociated character or an integrative and peak-experience-like quality. Correspondingly, they may have a “sentient” external focus, or else may reflect an inner focus on reminiscences, images, and imaginings” (Tellegen, 1992). For long, the Tellegen Absorption Scale (TAS) is the most-widely used self-report questionnaire that measures this trait (Tellegen & Atkinson, 1974; Tellegen, 1981), used in a large variety of contexts, including hypnosis and music.
@@ -14,3 +14,5 @@ Let’s follow this approach and adopt a network perspective to the analysis of 
 How does trait absorption function within a larger network of personality traits, and what are the dynamics of traits mutually affecting each other?
 
 Note that, even if you’re not specifically interested in absorption, this is still a useful analysis because it will tell you how to apply psychometric network analysis based on summary data and shows how to compare network models with factor models. Let’s get started!
+
+See also (this blog post)[https://tvroegh.netlify.app/post/2020-12-01-r-rmarkdown/traits/]
